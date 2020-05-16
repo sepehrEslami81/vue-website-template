@@ -1,0 +1,5 @@
+@import "./font.css";
+
+.swal2-container {
+  font-family: "iran-yekan" !important;
+}
